@@ -253,3 +253,15 @@ lean-matrix-cookbook:
     - eric-wieser
   report-build-failures: false
 
+oracle-computability:
+  description: |
+    Formalization of Oracle Computability and Turing Degrees in Lean.
+    This project provides a formalization of oracle computability and Turing degrees
+    using partial recursive functions with oracle access. It includes definitions
+    of Turing reducibility, equivalence, and degrees, along with foundational
+    theorems and the jump operator. The work builds on existing foundations in
+    Lean's computability theory as developed by Mario Carneiro.
+  organization: 'tannerduve'
+  maintainers:
+    - tannerduve
+  report-build-failures: false
